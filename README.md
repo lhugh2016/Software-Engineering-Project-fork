@@ -16,17 +16,17 @@ Use Cases:
 Rental Car Company - A worker for a rental car company wants to check to the repair history of a rental car. The worker would open the software, select the vehicle, and he will be able to view the history, print and close the software. 
 
 
-Feature list
-Features from product vision
-1.)	Login method with unique logins for each person using the system.
-2.)	Feature to have the system kept live so any changes made can be seen by any user.
-3.)	Feature to increase or decrease the amount of vehicles listed.
-4.)	Feature to select the vehicle which opens the log.
-5.)	Feature to enter vehicle information.
-6.)	Feature to log maintenance work done to vehicles including dates and mileages.
-7.)	Feature to sort and filter logs by various criteria.
-8.)	Feature to print a copy of the logs.
-9.)	Feature to upload an image of the maintenance invoice to the specific log entry.
-
-Features from user stories and scenarios
+Feature list  
+Features from product vision  
+1.)	Login method with unique logins for each person using the system.  
+2.)	Feature to have the system kept live so any changes made can be seen by any user.  
+3.)	Feature to increase or decrease the amount of vehicles listed.  
+4.)	Feature to select the vehicle which opens the log.  
+5.)	Feature to enter vehicle information.  
+6.)	Feature to log maintenance work done to vehicles including dates and mileages.  
+7.)	Feature to sort and filter logs by various criteria.  
+8.)	Feature to print a copy of the logs.  
+9.)	Feature to upload an image of the maintenance invoice to the specific log entry.  
+  
+Features from user stories and scenarios  
 1.)
